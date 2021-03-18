@@ -1,31 +1,25 @@
-<! DOCTYPE html >
-< html >
-    < cabeça >
-        < meta  charset = ' iso-8859-1 ' >
-        < title > Meu Primeiro Código no GIT! </ title >
-    </ head >
-< corpo >
-< h1  style = " color: blue; " > Risiane Souza Santos </ h1 >
-< p >  < forte > 2000: </ forte > Nasci no dia 11/09/2000. < Br >
-    < strong > 2001: </ strong > Ocorre atentado às Torres Gêmeas e os dados do meu aniversário entra para história. < Br >
-    < strong > 2002: </ strong > Nasce minha irmã Rayane. < Br >
-    < strong > 2003: </ strong > É emitido meu primeiro documento - RG. < Br >
-    < strong > 2004: </ strong > Entrei para a pré-escola. < Br >
-    < strong > 2005: </ strong > Ocorre a mudança de residência da minha família. < Br >
-    < strong > 2006: </ strong > Termino a pré-escola. < Br >
-    < Strong > 2007: </ strong > Início o ensino fundamental I. < br >
-    < strong > 2008: </ strong > Nasce meu irmão Rauan. < Br >
-    < strong > 2009: </ strong > Fico de recuperação na escola por motivos de saúde. < Br >
-    < Strong > 2010: </ strong > Termino o ensino fundamental I. < br >
-    < strong > 2011: </ strong > Início o ensino fundamental II. < Br >
-    < strong > 2012: </ strong > Meu primeiro acesso a rede social Facebook. < Br >
-    < strong > 2013: </ strong > Viajo para Maceió / AL. < Br >
-    < strong > 2014: </ strong > Início o curso de espanhol no CEL e termino o ensino fundamental II. < Br >
-    < forte > 2015: </ forte > Início o ensino médio. < Br >
-    < strong > 2016: </ strong > Termino o curso de espanhol. < Br >
-    < strong > 2017: </ strong > Início e término de estágio no Tribunal de São Paulo e término o ensino médio. < Br >
-    < strong > 2018: </ strong > Início como jovem aprendiz na empresa Tap. < Br >
-    < strong > 2019: </ strong > Termino de contrato como jovem aprendiz; Efetivada na empresa Nou; Início do curso de inglês na Wizard. < Br >
-    < strong > 2020: </ strong > Início e trancamento do curso de ciência da ciência. < Br > </ p >
-</ body >
-</ html > 
+2000: Nasci no dia 11/09/2000.
+2001: Ocorre atentado às Torres Gêmeas e a data do meu aniversário entra para história.
+2002: Nasce minha irmã Rayane.
+2003: É emitido meu primeiro documento - RG.
+2004: Entrei para a pré-escola.
+2005: Ocorre a mudança de residência da minha família.
+2006: Termino a pré-escola.
+2007: Início o ensino fundamental I.
+2008: Nasce meu irmão Rauan.
+2009: Fico de recuperação na escola por motivos de saúde.
+2010: Termino o ensino fundamental I.
+2011: Início o ensino fundamental II.
+2012: Meu primeiro acesso a rede social Facebook.
+2013: Viajo para Maceió/AL.
+2014: Início o curso de espanhol no CEL;
+    - Término do ensino fundamental II.
+2015: Início o ensino médio.
+2016: Termino o curso de espanhol.
+2017: Início e término de estágio no Tribunal de São Paulo;
+    - Término do ensino médio.
+2018: Início como jovem aprendiz na empresa Tap.
+2019: Termino de contrato como jovem aprendiz;
+    - Efetivada na empresa Nou;
+    - Início do curso de inglês na Wizard.
+2020: Início e trancamento do curso de ciência da computação.
